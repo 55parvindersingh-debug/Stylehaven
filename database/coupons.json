@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "000000000000000000000bb9",
+    "code": "STYLE10",
+    "description": "10% off clothing orders over \u00a350.",
+    "discountType": "percentage",
+    "value": 10,
+    "minimumSpend": 50,
+    "startsAt": "2026-07-01T00:00:00.000Z",
+    "expiresAt": "2027-12-31T23:59:59.000Z",
+    "usageLimit": 500,
+    "usedCount": 16,
+    "active": true,
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000bba",
+    "code": "WELCOME5",
+    "description": "\u00a35 off a first demonstration order over \u00a335.",
+    "discountType": "fixed",
+    "value": 5,
+    "minimumSpend": 35,
+    "startsAt": "2026-07-01T00:00:00.000Z",
+    "expiresAt": "2027-12-31T23:59:59.000Z",
+    "usageLimit": 200,
+    "usedCount": 7,
+    "active": true,
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000bbb",
+    "code": "COAT15",
+    "description": "15% off qualifying seasonal orders over \u00a3100.",
+    "discountType": "percentage",
+    "value": 15,
+    "minimumSpend": 100,
+    "startsAt": "2026-09-01T00:00:00.000Z",
+    "expiresAt": "2027-02-28T23:59:59.000Z",
+    "usageLimit": 100,
+    "usedCount": 3,
+    "active": true,
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]

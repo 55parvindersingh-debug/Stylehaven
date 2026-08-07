@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "0000000000000000000007d1",
+    "customerId": null,
+    "fullName": "StyleHaven Administrator",
+    "email": "admin@stylehaven.demo",
+    "password": "$2b$12$uHM5.y7hV0b3XfpRm7lFoujxvf9wnIUyTblsKgJtz5odwGBxudyAe",
+    "phone": "+44 121 555 0142",
+    "role": "admin",
+    "status": "active",
+    "wishlist": [],
+    "address": {
+      "line1": "StyleHaven Studio",
+      "line2": "",
+      "city": "Birmingham",
+      "postcode": "B1 1AA",
+      "country": "United Kingdom"
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000007d2",
+    "customerId": "CUS-2026-720002",
+    "fullName": "Aisha Malik",
+    "email": "customer@stylehaven.demo",
+    "password": "$2b$12$hIxulL9kD5OcG98deZ4fOOaUpRC90sqHkaIyDJJMePp0WrjZ/1kvq",
+    "phone": "07700 930101",
+    "role": "customer",
+    "status": "active",
+    "wishlist": [
+      "0000000000000000000003f1",
+      "0000000000000000000003f4",
+      "000000000000000000000402"
+    ],
+    "address": {
+      "line1": "18 College Road",
+      "line2": "",
+      "city": "Birmingham",
+      "postcode": "B15 3RT",
+      "country": "United Kingdom"
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000007d3",
+    "customerId": "CUS-2026-720003",
+    "fullName": "Emily Carter",
+    "email": "emily.carter@stylehaven.demo",
+    "password": "$2b$12$hIxulL9kD5OcG98deZ4fOOaUpRC90sqHkaIyDJJMePp0WrjZ/1kvq",
+    "phone": "07700 930102",
+    "role": "customer",
+    "status": "active",
+    "wishlist": [
+      "0000000000000000000003e9",
+      "0000000000000000000003f9"
+    ],
+    "address": {
+      "line1": "7 Market Street",
+      "line2": "",
+      "city": "Manchester",
+      "postcode": "M1 2AB",
+      "country": "United Kingdom"
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000007d4",
+    "customerId": "CUS-2026-720004",
+    "fullName": "Daniel Khan",
+    "email": "daniel.khan@stylehaven.demo",
+    "password": "$2b$12$hIxulL9kD5OcG98deZ4fOOaUpRC90sqHkaIyDJJMePp0WrjZ/1kvq",
+    "phone": "07700 930103",
+    "role": "customer",
+    "status": "active",
+    "wishlist": [
+      "0000000000000000000003eb",
+      "0000000000000000000003fd"
+    ],
+    "address": {
+      "line1": "24 School Lane",
+      "line2": "",
+      "city": "Leeds",
+      "postcode": "LS2 7DP",
+      "country": "United Kingdom"
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000007d5",
+    "customerId": "CUS-2026-720005",
+    "fullName": "Inactive Demo User",
+    "email": "inactive@stylehaven.demo",
+    "password": "$2b$12$hIxulL9kD5OcG98deZ4fOOaUpRC90sqHkaIyDJJMePp0WrjZ/1kvq",
+    "phone": "07700 930104",
+    "role": "customer",
+    "status": "inactive",
+    "wishlist": [],
+    "address": {
+      "line1": "5 Test Avenue",
+      "line2": "",
+      "city": "London",
+      "postcode": "E1 6AN",
+      "country": "United Kingdom"
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]

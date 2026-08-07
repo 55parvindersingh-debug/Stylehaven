@@ -1,0 +1,12 @@
+const express = require('express');
+const asyncHandler = require('../utils/asyncHandler');
+const { calculateCart, addItem, updateItem, removeItem, applyCoupon, clearCart } = require('../services/cartService');
+const router = express.Router();
+router.get('/', asyncHandler(async (req, res) => res.json({ cart: await calculateCart(req) })));
+router.post('/items', asyncHandler(async (req, res) => res.status(201).json({ message: 'Item added to your bag.', cart: await addItem(req, req.body || {}) })));
+router.put('/items/:lineId', asyncHandler(async (req, res) => res.json({ message: 'Bag quantity updated.', cart: await updateItem(req, decodeURIComponent(req.params.lineId), req.body || {}) })));
+router.delete('/items/:lineId', asyncHandler(async (req, res) => res.json({ message: 'Item removed from your bag.', cart: await removeItem(req, decodeURIComponent(req.params.lineId)) })));
+router.post('/coupon', asyncHandler(async (req, res) => res.json({ message: 'Coupon applied.', cart: await applyCoupon(req, req.body?.code) })));
+router.delete('/coupon', asyncHandler(async (req, res) => { req.session.couponCode = null; return res.json({ message: 'Coupon removed.', cart: await calculateCart(req) }); }));
+router.delete('/', asyncHandler(async (req, res) => { clearCart(req); return res.json({ message: 'Shopping bag cleared.', cart: await calculateCart(req) }); }));
+module.exports = router;

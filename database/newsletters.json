@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "000000000000000000001b59",
+    "email": "customer@stylehaven.demo",
+    "status": "subscribed",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001b5a",
+    "email": "emily.carter@stylehaven.demo",
+    "status": "subscribed",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001b5b",
+    "email": "fashion.reader@example.com",
+    "status": "subscribed",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]

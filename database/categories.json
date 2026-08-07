@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "000000000000000000000065",
+    "name": "Women",
+    "slug": "women",
+    "description": "Contemporary tops, shirts, dresses and relaxed everyday pieces for versatile wardrobes.",
+    "image": "collection-women.jpg",
+    "displayOrder": 1,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000066",
+    "name": "Men",
+    "slug": "men",
+    "description": "Clean shirts, tees and smart-casual staples designed for work, travel and weekends.",
+    "image": "collection-men.jpg",
+    "displayOrder": 2,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000067",
+    "name": "Outerwear",
+    "slug": "outerwear",
+    "description": "Layering pieces, hoodies, jackets and coats for changing seasons and colder days.",
+    "image": "product-12.jpg",
+    "displayOrder": 3,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000068",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "Finishing pieces including scarves, bags, hats and belts to complete each look.",
+    "image": "collection-accessories.jpg",
+    "displayOrder": 4,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]

@@ -1,0 +1,22 @@
+import { Route, Routes } from 'react-router-dom';
+import Layout from './components/Layout';
+import ProtectedRoute from './components/ProtectedRoute';
+import HomePage from './pages/HomePage';
+import ShopPage from './pages/ShopPage';
+import ProductDetailsPage from './pages/ProductDetailsPage';
+import CategoriesPage from './pages/CategoriesPage';
+import WishlistPage from './pages/WishlistPage';
+import OffersPage from './pages/OffersPage';
+import ReviewsPage from './pages/ReviewsPage';
+import AboutPage from './pages/AboutPage';
+import ContactPage from './pages/ContactPage';
+import CartPage from './pages/CartPage';
+import CheckoutPage from './pages/CheckoutPage';
+import LoginPage from './pages/LoginPage';
+import SignupPage from './pages/SignupPage';
+import AccountPage from './pages/AccountPage';
+import OrdersPage from './pages/OrdersPage';
+import DashboardPage from './pages/DashboardPage';
+import AdminResourcePage from './pages/admin/AdminResourcePage';
+import NotFoundPage from './pages/NotFoundPage';
+export default function App() { return <Routes><Route element={<Layout />}><Route index element={<HomePage />} /><Route path="shop" element={<ShopPage />} /><Route path="products/:identifier" element={<ProductDetailsPage />} /><Route path="categories" element={<CategoriesPage />} /><Route path="offers" element={<OffersPage />} /><Route path="reviews" element={<ReviewsPage />} /><Route path="about" element={<AboutPage />} /><Route path="contact" element={<ContactPage />} /><Route path="cart" element={<CartPage />} /><Route path="wishlist" element={<ProtectedRoute roles={['customer','admin']}><WishlistPage /></ProtectedRoute>} /><Route path="checkout" element={<ProtectedRoute roles={['customer','admin']}><CheckoutPage /></ProtectedRoute>} /><Route path="login" element={<LoginPage />} /><Route path="signup" element={<SignupPage />} /><Route path="account" element={<ProtectedRoute roles={['customer','admin']}><AccountPage /></ProtectedRoute>} /><Route path="orders" element={<ProtectedRoute roles={['customer','admin']}><OrdersPage /></ProtectedRoute>} /><Route path="admin" element={<ProtectedRoute roles={['admin']}><DashboardPage /></ProtectedRoute>} /><Route path="admin/:resource" element={<ProtectedRoute roles={['admin']}><AdminResourcePage /></ProtectedRoute>} /><Route path="*" element={<NotFoundPage />} /></Route></Routes>; }

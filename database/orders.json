@@ -1,0 +1,410 @@
+[
+  {
+    "_id": "000000000000000000000fa1",
+    "orderReference": "SH-20260710-510000",
+    "customer": "0000000000000000000007d2",
+    "items": [
+      {
+        "product": "0000000000000000000003e9",
+        "sku": "SH-WOM-001-01",
+        "name": "Luna Navy Tee",
+        "image": "product-01.jpg",
+        "size": "XS",
+        "color": "Navy",
+        "quantity": 1,
+        "unitPrice": 29,
+        "lineTotal": 29
+      },
+      {
+        "product": "0000000000000000000003ee",
+        "sku": "SH-MEN-006-10",
+        "name": "Forest Oversized Tee",
+        "image": "product-06.jpg",
+        "size": "XL",
+        "color": "Charcoal",
+        "quantity": 1,
+        "unitPrice": 34,
+        "lineTotal": 34
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Aisha Malik",
+      "email": "customer@stylehaven.demo",
+      "phone": "07700 930101",
+      "line1": "18 College Road",
+      "line2": "",
+      "city": "Birmingham",
+      "postcode": "B15 3RT",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "card-demo",
+    "subtotal": 63,
+    "deliveryFee": 4.99,
+    "discount": 0,
+    "total": 67.99,
+    "couponCode": "",
+    "status": "pending",
+    "stockRestored": false,
+    "notes": "",
+    "placedAt": "2026-07-10T10:30:00.000Z",
+    "createdAt": "2026-07-10T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000fa2",
+    "orderReference": "SH-20260711-510001",
+    "customer": "0000000000000000000007d3",
+    "items": [
+      {
+        "product": "0000000000000000000003ec",
+        "sku": "SH-MEN-004-01",
+        "name": "White Relaxed Shirt",
+        "image": "product-04.jpg",
+        "size": "XS",
+        "color": "White",
+        "quantity": 2,
+        "unitPrice": 42,
+        "lineTotal": 84
+      },
+      {
+        "product": "0000000000000000000003f1",
+        "sku": "SH-WOM-009-05",
+        "name": "Garden Floral Blouse",
+        "image": "product-09.jpg",
+        "size": "XL",
+        "color": "Floral",
+        "quantity": 1,
+        "unitPrice": 52,
+        "lineTotal": 52
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Emily Carter",
+      "email": "emily.carter@stylehaven.demo",
+      "phone": "07700 930102",
+      "line1": "7 Market Street",
+      "line2": "",
+      "city": "Manchester",
+      "postcode": "M1 2AB",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "cash-on-delivery",
+    "subtotal": 136,
+    "deliveryFee": 0,
+    "discount": 13.6,
+    "total": 122.4,
+    "couponCode": "STYLE10",
+    "status": "processing",
+    "stockRestored": false,
+    "notes": "",
+    "placedAt": "2026-07-11T10:30:00.000Z",
+    "createdAt": "2026-07-11T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000fa3",
+    "orderReference": "SH-20260712-510002",
+    "customer": "0000000000000000000007d4",
+    "items": [
+      {
+        "product": "0000000000000000000003ef",
+        "sku": "SH-MEN-007-01",
+        "name": "Resort Floral Shirt",
+        "image": "product-07.jpg",
+        "size": "XS",
+        "color": "Multi",
+        "quantity": 1,
+        "unitPrice": 49,
+        "lineTotal": 49
+      },
+      {
+        "product": "0000000000000000000003f4",
+        "sku": "SH-OUT-012-08",
+        "name": "Burgundy Winter Coat",
+        "image": "product-12.jpg",
+        "size": "XL",
+        "color": "Black",
+        "quantity": 1,
+        "unitPrice": 129,
+        "lineTotal": 129
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Daniel Khan",
+      "email": "daniel.khan@stylehaven.demo",
+      "phone": "07700 930103",
+      "line1": "24 School Lane",
+      "line2": "",
+      "city": "Leeds",
+      "postcode": "LS2 7DP",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "card-demo",
+    "subtotal": 178,
+    "deliveryFee": 0,
+    "discount": 0,
+    "total": 178,
+    "couponCode": "",
+    "status": "shipped",
+    "stockRestored": false,
+    "notes": "Leave with reception if unavailable.",
+    "placedAt": "2026-07-12T10:30:00.000Z",
+    "createdAt": "2026-07-12T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000fa4",
+    "orderReference": "SH-20260713-510003",
+    "customer": "0000000000000000000007d2",
+    "items": [
+      {
+        "product": "0000000000000000000003f2",
+        "sku": "SH-WOM-010-01",
+        "name": "Blush Bloom Shirt",
+        "image": "product-10.jpg",
+        "size": "XS",
+        "color": "Blush Print",
+        "quantity": 2,
+        "unitPrice": 50,
+        "lineTotal": 100
+      },
+      {
+        "product": "0000000000000000000003f7",
+        "sku": "SH-WOM-015-10",
+        "name": "Sage Wrap Dress",
+        "image": "product-09.jpg",
+        "size": "XL",
+        "color": "Navy",
+        "quantity": 1,
+        "unitPrice": 68,
+        "lineTotal": 68
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Aisha Malik",
+      "email": "customer@stylehaven.demo",
+      "phone": "07700 930101",
+      "line1": "18 College Road",
+      "line2": "",
+      "city": "Birmingham",
+      "postcode": "B15 3RT",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "cash-on-delivery",
+    "subtotal": 168,
+    "deliveryFee": 0,
+    "discount": 0,
+    "total": 168,
+    "couponCode": "",
+    "status": "delivered",
+    "stockRestored": false,
+    "notes": "",
+    "placedAt": "2026-07-13T10:30:00.000Z",
+    "createdAt": "2026-07-13T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000fa5",
+    "orderReference": "SH-20260714-510004",
+    "customer": "0000000000000000000007d3",
+    "items": [
+      {
+        "product": "0000000000000000000003f5",
+        "sku": "SH-WOM-013-01",
+        "name": "Rose Ribbed Top",
+        "image": "product-02.jpg",
+        "size": "XS",
+        "color": "Rose",
+        "quantity": 1,
+        "unitPrice": 31,
+        "lineTotal": 31
+      },
+      {
+        "product": "0000000000000000000003fa",
+        "sku": "SH-MEN-018-10",
+        "name": "Stone Oxford Shirt",
+        "image": "product-04.jpg",
+        "size": "XL",
+        "color": "White",
+        "quantity": 1,
+        "unitPrice": 51,
+        "lineTotal": 51
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Emily Carter",
+      "email": "emily.carter@stylehaven.demo",
+      "phone": "07700 930102",
+      "line1": "7 Market Street",
+      "line2": "",
+      "city": "Manchester",
+      "postcode": "M1 2AB",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "card-demo",
+    "subtotal": 82,
+    "deliveryFee": 0,
+    "discount": 0,
+    "total": 82,
+    "couponCode": "",
+    "status": "cancelled",
+    "stockRestored": true,
+    "notes": "",
+    "placedAt": "2026-07-14T10:30:00.000Z",
+    "createdAt": "2026-07-14T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000fa6",
+    "orderReference": "SH-20260715-510005",
+    "customer": "0000000000000000000007d4",
+    "items": [
+      {
+        "product": "0000000000000000000003f8",
+        "sku": "SH-WOM-016-01",
+        "name": "Black Tailored Trousers",
+        "image": "product-05.jpg",
+        "size": "28",
+        "color": "Black",
+        "quantity": 2,
+        "unitPrice": 59,
+        "lineTotal": 118
+      },
+      {
+        "product": "0000000000000000000003fd",
+        "sku": "SH-MEN-021-10",
+        "name": "Sand Linen Shirt",
+        "image": "product-07.jpg",
+        "size": "XL",
+        "color": "White",
+        "quantity": 1,
+        "unitPrice": 54,
+        "lineTotal": 54
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Daniel Khan",
+      "email": "daniel.khan@stylehaven.demo",
+      "phone": "07700 930103",
+      "line1": "24 School Lane",
+      "line2": "",
+      "city": "Leeds",
+      "postcode": "LS2 7DP",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "cash-on-delivery",
+    "subtotal": 172,
+    "deliveryFee": 0,
+    "discount": 17.2,
+    "total": 154.8,
+    "couponCode": "STYLE10",
+    "status": "delivered",
+    "stockRestored": false,
+    "notes": "",
+    "placedAt": "2026-07-15T10:30:00.000Z",
+    "createdAt": "2026-07-15T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000fa7",
+    "orderReference": "SH-20260716-510006",
+    "customer": "0000000000000000000007d2",
+    "items": [
+      {
+        "product": "0000000000000000000003fb",
+        "sku": "SH-MEN-019-01",
+        "name": "Charcoal Polo Shirt",
+        "image": "product-06.jpg",
+        "size": "XS",
+        "color": "Charcoal",
+        "quantity": 1,
+        "unitPrice": 39,
+        "lineTotal": 39
+      },
+      {
+        "product": "000000000000000000000400",
+        "sku": "SH-OUT-024-08",
+        "name": "Mint Lightweight Jacket",
+        "image": "product-08.jpg",
+        "size": "XL",
+        "color": "Navy",
+        "quantity": 1,
+        "unitPrice": 82,
+        "lineTotal": 82
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Aisha Malik",
+      "email": "customer@stylehaven.demo",
+      "phone": "07700 930101",
+      "line1": "18 College Road",
+      "line2": "",
+      "city": "Birmingham",
+      "postcode": "B15 3RT",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "card-demo",
+    "subtotal": 121,
+    "deliveryFee": 0,
+    "discount": 0,
+    "total": 121,
+    "couponCode": "",
+    "status": "processing",
+    "stockRestored": false,
+    "notes": "",
+    "placedAt": "2026-07-16T10:30:00.000Z",
+    "createdAt": "2026-07-16T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000fa8",
+    "orderReference": "SH-20260717-510007",
+    "customer": "0000000000000000000007d3",
+    "items": [
+      {
+        "product": "0000000000000000000003fe",
+        "sku": "SH-OUT-022-01",
+        "name": "Graphite Bomber Jacket",
+        "image": "product-11.jpg",
+        "size": "S",
+        "color": "Graphite",
+        "quantity": 2,
+        "unitPrice": 96,
+        "lineTotal": 192
+      },
+      {
+        "product": "000000000000000000000403",
+        "sku": "SH-ACC-027-02",
+        "name": "Tan Classic Belt",
+        "image": "collection-accessories.jpg",
+        "size": "One Size",
+        "color": "Black",
+        "quantity": 1,
+        "unitPrice": 28,
+        "lineTotal": 28
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Emily Carter",
+      "email": "emily.carter@stylehaven.demo",
+      "phone": "07700 930102",
+      "line1": "7 Market Street",
+      "line2": "",
+      "city": "Manchester",
+      "postcode": "M1 2AB",
+      "country": "United Kingdom"
+    },
+    "paymentMethod": "cash-on-delivery",
+    "subtotal": 220,
+    "deliveryFee": 0,
+    "discount": 0,
+    "total": 220,
+    "couponCode": "",
+    "status": "delivered",
+    "stockRestored": false,
+    "notes": "",
+    "placedAt": "2026-07-17T10:30:00.000Z",
+    "createdAt": "2026-07-17T10:30:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]

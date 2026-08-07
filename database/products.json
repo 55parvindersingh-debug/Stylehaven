@@ -1,0 +1,2949 @@
+[
+  {
+    "_id": "0000000000000000000003e9",
+    "sku": "SH-WOM-001",
+    "name": "Luna Navy Tee",
+    "slug": "luna-navy-tee",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Best Seller",
+    "brand": "StyleHaven",
+    "material": "Cotton jersey",
+    "description": "A soft navy everyday t-shirt with a clean neckline and relaxed premium fit.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 29,
+    "oldPrice": 39,
+    "image": "product-01.jpg",
+    "gallery": [
+      "product-01.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Navy",
+        "sku": "SH-WOM-001-01",
+        "size": "XS",
+        "color": "Navy",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XS|Black",
+        "sku": "SH-WOM-001-02",
+        "size": "XS",
+        "color": "Black",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Navy",
+        "sku": "SH-WOM-001-03",
+        "size": "S",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Black",
+        "sku": "SH-WOM-001-04",
+        "size": "S",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Navy",
+        "sku": "SH-WOM-001-05",
+        "size": "M",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Black",
+        "sku": "SH-WOM-001-06",
+        "size": "M",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Navy",
+        "sku": "SH-WOM-001-07",
+        "size": "L",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "L|Black",
+        "sku": "SH-WOM-001-08",
+        "size": "L",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Navy",
+        "sku": "SH-WOM-001-09",
+        "size": "XL",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Black",
+        "sku": "SH-WOM-001-10",
+        "size": "XL",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 14,
+    "stock": 22,
+    "soldQuantity": 6,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003ea",
+    "sku": "SH-WOM-002",
+    "name": "Violet Everyday Tee",
+    "slug": "violet-everyday-tee",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "New",
+    "brand": "Aster",
+    "material": "Combed cotton",
+    "description": "A bright casual t-shirt made for comfortable daily outfits and easy layering.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 27,
+    "oldPrice": 35,
+    "image": "product-02.jpg",
+    "gallery": [
+      "product-02.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Violet",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Violet",
+        "sku": "SH-WOM-002-01",
+        "size": "XS",
+        "color": "Violet",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XS|Black",
+        "sku": "SH-WOM-002-02",
+        "size": "XS",
+        "color": "Black",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Violet",
+        "sku": "SH-WOM-002-03",
+        "size": "S",
+        "color": "Violet",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Black",
+        "sku": "SH-WOM-002-04",
+        "size": "S",
+        "color": "Black",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Violet",
+        "sku": "SH-WOM-002-05",
+        "size": "M",
+        "color": "Violet",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Black",
+        "sku": "SH-WOM-002-06",
+        "size": "M",
+        "color": "Black",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Violet",
+        "sku": "SH-WOM-002-07",
+        "size": "L",
+        "color": "Violet",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Black",
+        "sku": "SH-WOM-002-08",
+        "size": "L",
+        "color": "Black",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Violet",
+        "sku": "SH-WOM-002-09",
+        "size": "XL",
+        "color": "Violet",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Black",
+        "sku": "SH-WOM-002-10",
+        "size": "XL",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.6,
+    "ratingCount": 16,
+    "stock": 28,
+    "soldQuantity": 9,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003eb",
+    "sku": "SH-MEN-003",
+    "name": "Olive Utility Shirt",
+    "slug": "olive-utility-shirt",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Trending",
+    "brand": "Northline",
+    "material": "Cotton twill",
+    "description": "A structured short-sleeve shirt with utility styling and smart-casual appeal.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 45,
+    "oldPrice": 59,
+    "image": "product-03.jpg",
+    "gallery": [
+      "product-03.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Olive",
+        "sku": "SH-MEN-003-01",
+        "size": "XS",
+        "color": "Olive",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XS|Stone",
+        "sku": "SH-MEN-003-02",
+        "size": "XS",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Olive",
+        "sku": "SH-MEN-003-03",
+        "size": "S",
+        "color": "Olive",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Stone",
+        "sku": "SH-MEN-003-04",
+        "size": "S",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Olive",
+        "sku": "SH-MEN-003-05",
+        "size": "M",
+        "color": "Olive",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Stone",
+        "sku": "SH-MEN-003-06",
+        "size": "M",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Olive",
+        "sku": "SH-MEN-003-07",
+        "size": "L",
+        "color": "Olive",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Stone",
+        "sku": "SH-MEN-003-08",
+        "size": "L",
+        "color": "Stone",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Olive",
+        "sku": "SH-MEN-003-09",
+        "size": "XL",
+        "color": "Olive",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Stone",
+        "sku": "SH-MEN-003-10",
+        "size": "XL",
+        "color": "Stone",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 18,
+    "stock": 16,
+    "soldQuantity": 12,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003ec",
+    "sku": "SH-MEN-004",
+    "name": "White Relaxed Shirt",
+    "slug": "white-relaxed-shirt",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Essential",
+    "brand": "Haven Basics",
+    "material": "Poplin cotton",
+    "description": "A clean white relaxed shirt that works for office wear, travel and weekends.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 42,
+    "oldPrice": 55,
+    "image": "product-04.jpg",
+    "gallery": [
+      "product-04.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "White",
+      "Sky Blue"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|White",
+        "sku": "SH-MEN-004-01",
+        "size": "XS",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XS|Sky Blue",
+        "sku": "SH-MEN-004-02",
+        "size": "XS",
+        "color": "Sky Blue",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|White",
+        "sku": "SH-MEN-004-03",
+        "size": "S",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Sky Blue",
+        "sku": "SH-MEN-004-04",
+        "size": "S",
+        "color": "Sky Blue",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|White",
+        "sku": "SH-MEN-004-05",
+        "size": "M",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Sky Blue",
+        "sku": "SH-MEN-004-06",
+        "size": "M",
+        "color": "Sky Blue",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|White",
+        "sku": "SH-MEN-004-07",
+        "size": "L",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Sky Blue",
+        "sku": "SH-MEN-004-08",
+        "size": "L",
+        "color": "Sky Blue",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|White",
+        "sku": "SH-MEN-004-09",
+        "size": "XL",
+        "color": "White",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Sky Blue",
+        "sku": "SH-MEN-004-10",
+        "size": "XL",
+        "color": "Sky Blue",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.5,
+    "ratingCount": 20,
+    "stock": 18,
+    "soldQuantity": 15,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003ed",
+    "sku": "SH-WOM-005",
+    "name": "Ruby Longline Tee",
+    "slug": "ruby-longline-tee",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Popular",
+    "brand": "Aster",
+    "material": "Cotton blend",
+    "description": "A longline casual top with a flattering drape and soft breathable feel.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 32,
+    "oldPrice": 44,
+    "image": "product-05.jpg",
+    "gallery": [
+      "product-05.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ruby",
+      "Cream"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Ruby",
+        "sku": "SH-WOM-005-01",
+        "size": "XS",
+        "color": "Ruby",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XS|Cream",
+        "sku": "SH-WOM-005-02",
+        "size": "XS",
+        "color": "Cream",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Ruby",
+        "sku": "SH-WOM-005-03",
+        "size": "S",
+        "color": "Ruby",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Cream",
+        "sku": "SH-WOM-005-04",
+        "size": "S",
+        "color": "Cream",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Ruby",
+        "sku": "SH-WOM-005-05",
+        "size": "M",
+        "color": "Ruby",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Cream",
+        "sku": "SH-WOM-005-06",
+        "size": "M",
+        "color": "Cream",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Ruby",
+        "sku": "SH-WOM-005-07",
+        "size": "L",
+        "color": "Ruby",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Cream",
+        "sku": "SH-WOM-005-08",
+        "size": "L",
+        "color": "Cream",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Ruby",
+        "sku": "SH-WOM-005-09",
+        "size": "XL",
+        "color": "Ruby",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Cream",
+        "sku": "SH-WOM-005-10",
+        "size": "XL",
+        "color": "Cream",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.6,
+    "ratingCount": 22,
+    "stock": 14,
+    "soldQuantity": 18,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003ee",
+    "sku": "SH-MEN-006",
+    "name": "Forest Oversized Tee",
+    "slug": "forest-oversized-tee",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Premium",
+    "brand": "Haven Basics",
+    "material": "Heavy cotton",
+    "description": "An oversized t-shirt with heavier fabric and a modern streetwear silhouette.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 34,
+    "oldPrice": 46,
+    "image": "product-06.jpg",
+    "gallery": [
+      "product-06.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Forest Green",
+      "Charcoal"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Forest Green",
+        "sku": "SH-MEN-006-01",
+        "size": "XS",
+        "color": "Forest Green",
+        "stock": 2,
+        "soldQuantity": 3
+      },
+      {
+        "variantKey": "XS|Charcoal",
+        "sku": "SH-MEN-006-02",
+        "size": "XS",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Forest Green",
+        "sku": "SH-MEN-006-03",
+        "size": "S",
+        "color": "Forest Green",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Charcoal",
+        "sku": "SH-MEN-006-04",
+        "size": "S",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Forest Green",
+        "sku": "SH-MEN-006-05",
+        "size": "M",
+        "color": "Forest Green",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Charcoal",
+        "sku": "SH-MEN-006-06",
+        "size": "M",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Forest Green",
+        "sku": "SH-MEN-006-07",
+        "size": "L",
+        "color": "Forest Green",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Charcoal",
+        "sku": "SH-MEN-006-08",
+        "size": "L",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Forest Green",
+        "sku": "SH-MEN-006-09",
+        "size": "XL",
+        "color": "Forest Green",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Charcoal",
+        "sku": "SH-MEN-006-10",
+        "size": "XL",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 2
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 24,
+    "stock": 20,
+    "soldQuantity": 21,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003ef",
+    "sku": "SH-MEN-007",
+    "name": "Resort Floral Shirt",
+    "slug": "resort-floral-shirt",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Summer",
+    "brand": "Coastline",
+    "material": "Viscose blend",
+    "description": "A colourful resort shirt for holidays, casual events and warm-weather styling.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 49,
+    "oldPrice": 65,
+    "image": "product-07.jpg",
+    "gallery": [
+      "product-07.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Multi"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Multi",
+        "sku": "SH-MEN-007-01",
+        "size": "XS",
+        "color": "Multi",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Multi",
+        "sku": "SH-MEN-007-02",
+        "size": "S",
+        "color": "Multi",
+        "stock": 3,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Multi",
+        "sku": "SH-MEN-007-03",
+        "size": "M",
+        "color": "Multi",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Multi",
+        "sku": "SH-MEN-007-04",
+        "size": "L",
+        "color": "Multi",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Multi",
+        "sku": "SH-MEN-007-05",
+        "size": "XL",
+        "color": "Multi",
+        "stock": 2,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 26,
+    "stock": 12,
+    "soldQuantity": 3,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f0",
+    "sku": "SH-MEN-008",
+    "name": "Palm Print Shirt",
+    "slug": "palm-print-shirt",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Limited",
+    "brand": "Coastline",
+    "material": "Soft viscose",
+    "description": "A lightweight palm print shirt with a relaxed shape and statement pattern.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 47,
+    "oldPrice": 62,
+    "image": "product-08.jpg",
+    "gallery": [
+      "product-08.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory Green"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Ivory Green",
+        "sku": "SH-MEN-008-01",
+        "size": "XS",
+        "color": "Ivory Green",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Ivory Green",
+        "sku": "SH-MEN-008-02",
+        "size": "S",
+        "color": "Ivory Green",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Ivory Green",
+        "sku": "SH-MEN-008-03",
+        "size": "M",
+        "color": "Ivory Green",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Ivory Green",
+        "sku": "SH-MEN-008-04",
+        "size": "L",
+        "color": "Ivory Green",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Ivory Green",
+        "sku": "SH-MEN-008-05",
+        "size": "XL",
+        "color": "Ivory Green",
+        "stock": 2,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.6,
+    "ratingCount": 28,
+    "stock": 10,
+    "soldQuantity": 6,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f1",
+    "sku": "SH-WOM-009",
+    "name": "Garden Floral Blouse",
+    "slug": "garden-floral-blouse",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Top Rated",
+    "brand": "Flora Lane",
+    "material": "Rayon blend",
+    "description": "A feminine floral blouse with a soft collar and easy day-to-evening styling.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 52,
+    "oldPrice": 68,
+    "image": "product-09.jpg",
+    "gallery": [
+      "product-09.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Floral"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Floral",
+        "sku": "SH-WOM-009-01",
+        "size": "XS",
+        "color": "Floral",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Floral",
+        "sku": "SH-WOM-009-02",
+        "size": "S",
+        "color": "Floral",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Floral",
+        "sku": "SH-WOM-009-03",
+        "size": "M",
+        "color": "Floral",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Floral",
+        "sku": "SH-WOM-009-04",
+        "size": "L",
+        "color": "Floral",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Floral",
+        "sku": "SH-WOM-009-05",
+        "size": "XL",
+        "color": "Floral",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.9,
+    "ratingCount": 30,
+    "stock": 9,
+    "soldQuantity": 9,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f2",
+    "sku": "SH-WOM-010",
+    "name": "Blush Bloom Shirt",
+    "slug": "blush-bloom-shirt",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Fresh Pick",
+    "brand": "Flora Lane",
+    "material": "Lightweight rayon",
+    "description": "A pastel printed shirt designed for smart casual outfits and spring wardrobes.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 50,
+    "oldPrice": 64,
+    "image": "product-10.jpg",
+    "gallery": [
+      "product-10.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Blush Print"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Blush Print",
+        "sku": "SH-WOM-010-01",
+        "size": "XS",
+        "color": "Blush Print",
+        "stock": 3,
+        "soldQuantity": 3
+      },
+      {
+        "variantKey": "S|Blush Print",
+        "sku": "SH-WOM-010-02",
+        "size": "S",
+        "color": "Blush Print",
+        "stock": 3,
+        "soldQuantity": 3
+      },
+      {
+        "variantKey": "M|Blush Print",
+        "sku": "SH-WOM-010-03",
+        "size": "M",
+        "color": "Blush Print",
+        "stock": 3,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Blush Print",
+        "sku": "SH-WOM-010-04",
+        "size": "L",
+        "color": "Blush Print",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Blush Print",
+        "sku": "SH-WOM-010-05",
+        "size": "XL",
+        "color": "Blush Print",
+        "stock": 2,
+        "soldQuantity": 2
+      }
+    ],
+    "ratingAverage": 4.5,
+    "ratingCount": 32,
+    "stock": 13,
+    "soldQuantity": 12,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f3",
+    "sku": "SH-OUT-011",
+    "name": "Midnight Zip Hoodie",
+    "slug": "midnight-zip-hoodie",
+    "category": "000000000000000000000067",
+    "audience": "unisex",
+    "tag": "Warm",
+    "brand": "StyleHaven Studio",
+    "material": "Fleece cotton",
+    "description": "A warm zip hoodie with contrast drawstrings, soft lining and strong everyday practicality.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 74,
+    "oldPrice": 96,
+    "image": "product-11.jpg",
+    "gallery": [
+      "product-11.jpg"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "S|Navy",
+        "sku": "SH-OUT-011-01",
+        "size": "S",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Black",
+        "sku": "SH-OUT-011-02",
+        "size": "S",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Navy",
+        "sku": "SH-OUT-011-03",
+        "size": "M",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Black",
+        "sku": "SH-OUT-011-04",
+        "size": "M",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Navy",
+        "sku": "SH-OUT-011-05",
+        "size": "L",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Black",
+        "sku": "SH-OUT-011-06",
+        "size": "L",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Navy",
+        "sku": "SH-OUT-011-07",
+        "size": "XL",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Black",
+        "sku": "SH-OUT-011-08",
+        "size": "XL",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 34,
+    "stock": 11,
+    "soldQuantity": 15,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f4",
+    "sku": "SH-OUT-012",
+    "name": "Burgundy Winter Coat",
+    "slug": "burgundy-winter-coat",
+    "category": "000000000000000000000067",
+    "audience": "unisex",
+    "tag": "Premium",
+    "brand": "Nord Studio",
+    "material": "Wool blend",
+    "description": "A statement winter coat with cosy structure, deep colour and refined seasonal styling.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 129,
+    "oldPrice": 159,
+    "image": "product-12.jpg",
+    "gallery": [
+      "product-12.jpg"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Burgundy",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "S|Burgundy",
+        "sku": "SH-OUT-012-01",
+        "size": "S",
+        "color": "Burgundy",
+        "stock": 1,
+        "soldQuantity": 3
+      },
+      {
+        "variantKey": "S|Black",
+        "sku": "SH-OUT-012-02",
+        "size": "S",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 3
+      },
+      {
+        "variantKey": "M|Burgundy",
+        "sku": "SH-OUT-012-03",
+        "size": "M",
+        "color": "Burgundy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Black",
+        "sku": "SH-OUT-012-04",
+        "size": "M",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Burgundy",
+        "sku": "SH-OUT-012-05",
+        "size": "L",
+        "color": "Burgundy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Black",
+        "sku": "SH-OUT-012-06",
+        "size": "L",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Burgundy",
+        "sku": "SH-OUT-012-07",
+        "size": "XL",
+        "color": "Burgundy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Black",
+        "sku": "SH-OUT-012-08",
+        "size": "XL",
+        "color": "Black",
+        "stock": 0,
+        "soldQuantity": 2
+      }
+    ],
+    "ratingAverage": 4.9,
+    "ratingCount": 36,
+    "stock": 7,
+    "soldQuantity": 18,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f5",
+    "sku": "SH-WOM-013",
+    "name": "Rose Ribbed Top",
+    "slug": "rose-ribbed-top",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "New",
+    "brand": "Aster",
+    "material": "Ribbed cotton",
+    "description": "A fitted ribbed top with stretch comfort and a soft rose finish.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 31,
+    "oldPrice": 41,
+    "image": "product-02.jpg",
+    "gallery": [
+      "product-02.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose",
+      "Ivory"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Rose",
+        "sku": "SH-WOM-013-01",
+        "size": "XS",
+        "color": "Rose",
+        "stock": 2,
+        "soldQuantity": 3
+      },
+      {
+        "variantKey": "XS|Ivory",
+        "sku": "SH-WOM-013-02",
+        "size": "XS",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Rose",
+        "sku": "SH-WOM-013-03",
+        "size": "S",
+        "color": "Rose",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Ivory",
+        "sku": "SH-WOM-013-04",
+        "size": "S",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Rose",
+        "sku": "SH-WOM-013-05",
+        "size": "M",
+        "color": "Rose",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Ivory",
+        "sku": "SH-WOM-013-06",
+        "size": "M",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Rose",
+        "sku": "SH-WOM-013-07",
+        "size": "L",
+        "color": "Rose",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Ivory",
+        "sku": "SH-WOM-013-08",
+        "size": "L",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Rose",
+        "sku": "SH-WOM-013-09",
+        "size": "XL",
+        "color": "Rose",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Ivory",
+        "sku": "SH-WOM-013-10",
+        "size": "XL",
+        "color": "Ivory",
+        "stock": 1,
+        "soldQuantity": 2
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 38,
+    "stock": 19,
+    "soldQuantity": 21,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f6",
+    "sku": "SH-WOM-014",
+    "name": "Ivory Weekend Blouse",
+    "slug": "ivory-weekend-blouse",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Everyday",
+    "brand": "Flora Lane",
+    "material": "Viscose",
+    "description": "A lightweight ivory blouse for easy weekend and office styling.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 46,
+    "oldPrice": 58,
+    "image": "product-10.jpg",
+    "gallery": [
+      "product-10.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory",
+      "Blush"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Ivory",
+        "sku": "SH-WOM-014-01",
+        "size": "XS",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XS|Blush",
+        "sku": "SH-WOM-014-02",
+        "size": "XS",
+        "color": "Blush",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Ivory",
+        "sku": "SH-WOM-014-03",
+        "size": "S",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Blush",
+        "sku": "SH-WOM-014-04",
+        "size": "S",
+        "color": "Blush",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "M|Ivory",
+        "sku": "SH-WOM-014-05",
+        "size": "M",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "M|Blush",
+        "sku": "SH-WOM-014-06",
+        "size": "M",
+        "color": "Blush",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "L|Ivory",
+        "sku": "SH-WOM-014-07",
+        "size": "L",
+        "color": "Ivory",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "L|Blush",
+        "sku": "SH-WOM-014-08",
+        "size": "L",
+        "color": "Blush",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Ivory",
+        "sku": "SH-WOM-014-09",
+        "size": "XL",
+        "color": "Ivory",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Blush",
+        "sku": "SH-WOM-014-10",
+        "size": "XL",
+        "color": "Blush",
+        "stock": 1,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.6,
+    "ratingCount": 40,
+    "stock": 17,
+    "soldQuantity": 3,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f7",
+    "sku": "SH-WOM-015",
+    "name": "Sage Wrap Dress",
+    "slug": "sage-wrap-dress",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Occasion",
+    "brand": "Flora Lane",
+    "material": "Rayon blend",
+    "description": "A flattering wrap dress with a flowing shape and adjustable waist tie.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 68,
+    "oldPrice": 84,
+    "image": "product-09.jpg",
+    "gallery": [
+      "product-09.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sage",
+      "Navy"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Sage",
+        "sku": "SH-WOM-015-01",
+        "size": "XS",
+        "color": "Sage",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XS|Navy",
+        "sku": "SH-WOM-015-02",
+        "size": "XS",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Sage",
+        "sku": "SH-WOM-015-03",
+        "size": "S",
+        "color": "Sage",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Navy",
+        "sku": "SH-WOM-015-04",
+        "size": "S",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Sage",
+        "sku": "SH-WOM-015-05",
+        "size": "M",
+        "color": "Sage",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Navy",
+        "sku": "SH-WOM-015-06",
+        "size": "M",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Sage",
+        "sku": "SH-WOM-015-07",
+        "size": "L",
+        "color": "Sage",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "L|Navy",
+        "sku": "SH-WOM-015-08",
+        "size": "L",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Sage",
+        "sku": "SH-WOM-015-09",
+        "size": "XL",
+        "color": "Sage",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Navy",
+        "sku": "SH-WOM-015-10",
+        "size": "XL",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 42,
+    "stock": 12,
+    "soldQuantity": 6,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f8",
+    "sku": "SH-WOM-016",
+    "name": "Black Tailored Trousers",
+    "slug": "black-tailored-trousers",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Smart",
+    "brand": "Nord Studio",
+    "material": "Stretch twill",
+    "description": "Modern tailored trousers with a clean waistband and comfortable movement.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 59,
+    "oldPrice": 75,
+    "image": "product-05.jpg",
+    "gallery": [
+      "product-05.jpg"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Black",
+      "Stone"
+    ],
+    "variants": [
+      {
+        "variantKey": "28|Black",
+        "sku": "SH-WOM-016-01",
+        "size": "28",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "28|Stone",
+        "sku": "SH-WOM-016-02",
+        "size": "28",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "30|Black",
+        "sku": "SH-WOM-016-03",
+        "size": "30",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "30|Stone",
+        "sku": "SH-WOM-016-04",
+        "size": "30",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "32|Black",
+        "sku": "SH-WOM-016-05",
+        "size": "32",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "32|Stone",
+        "sku": "SH-WOM-016-06",
+        "size": "32",
+        "color": "Stone",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "34|Black",
+        "sku": "SH-WOM-016-07",
+        "size": "34",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "34|Stone",
+        "sku": "SH-WOM-016-08",
+        "size": "34",
+        "color": "Stone",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "36|Black",
+        "sku": "SH-WOM-016-09",
+        "size": "36",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "36|Stone",
+        "sku": "SH-WOM-016-10",
+        "size": "36",
+        "color": "Stone",
+        "stock": 1,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 44,
+    "stock": 15,
+    "soldQuantity": 9,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003f9",
+    "sku": "SH-WOM-017",
+    "name": "Cream Knit Cardigan",
+    "slug": "cream-knit-cardigan",
+    "category": "000000000000000000000065",
+    "audience": "women",
+    "tag": "Layering",
+    "brand": "Haven Basics",
+    "material": "Cotton knit",
+    "description": "A soft button cardigan made for effortless layering through changing seasons.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 62,
+    "oldPrice": 79,
+    "image": "product-01.jpg",
+    "gallery": [
+      "product-01.jpg"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Cream",
+      "Blush"
+    ],
+    "variants": [
+      {
+        "variantKey": "S|Cream",
+        "sku": "SH-WOM-017-01",
+        "size": "S",
+        "color": "Cream",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Blush",
+        "sku": "SH-WOM-017-02",
+        "size": "S",
+        "color": "Blush",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Cream",
+        "sku": "SH-WOM-017-03",
+        "size": "M",
+        "color": "Cream",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Blush",
+        "sku": "SH-WOM-017-04",
+        "size": "M",
+        "color": "Blush",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Cream",
+        "sku": "SH-WOM-017-05",
+        "size": "L",
+        "color": "Cream",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Blush",
+        "sku": "SH-WOM-017-06",
+        "size": "L",
+        "color": "Blush",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Cream",
+        "sku": "SH-WOM-017-07",
+        "size": "XL",
+        "color": "Cream",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Blush",
+        "sku": "SH-WOM-017-08",
+        "size": "XL",
+        "color": "Blush",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 46,
+    "stock": 10,
+    "soldQuantity": 12,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003fa",
+    "sku": "SH-MEN-018",
+    "name": "Stone Oxford Shirt",
+    "slug": "stone-oxford-shirt",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Smart",
+    "brand": "Northline",
+    "material": "Oxford cotton",
+    "description": "A durable Oxford shirt with a neat collar and versatile regular fit.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 51,
+    "oldPrice": 66,
+    "image": "product-04.jpg",
+    "gallery": [
+      "product-04.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Stone",
+      "White"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Stone",
+        "sku": "SH-MEN-018-01",
+        "size": "XS",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XS|White",
+        "sku": "SH-MEN-018-02",
+        "size": "XS",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Stone",
+        "sku": "SH-MEN-018-03",
+        "size": "S",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|White",
+        "sku": "SH-MEN-018-04",
+        "size": "S",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Stone",
+        "sku": "SH-MEN-018-05",
+        "size": "M",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|White",
+        "sku": "SH-MEN-018-06",
+        "size": "M",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Stone",
+        "sku": "SH-MEN-018-07",
+        "size": "L",
+        "color": "Stone",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|White",
+        "sku": "SH-MEN-018-08",
+        "size": "L",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Stone",
+        "sku": "SH-MEN-018-09",
+        "size": "XL",
+        "color": "Stone",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|White",
+        "sku": "SH-MEN-018-10",
+        "size": "XL",
+        "color": "White",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 48,
+    "stock": 18,
+    "soldQuantity": 15,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003fb",
+    "sku": "SH-MEN-019",
+    "name": "Charcoal Polo Shirt",
+    "slug": "charcoal-polo-shirt",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Classic",
+    "brand": "Northline",
+    "material": "Pique cotton",
+    "description": "A classic polo with breathable texture and a structured two-button collar.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 39,
+    "oldPrice": 49,
+    "image": "product-06.jpg",
+    "gallery": [
+      "product-06.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Charcoal",
+      "Navy"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Charcoal",
+        "sku": "SH-MEN-019-01",
+        "size": "XS",
+        "color": "Charcoal",
+        "stock": 3,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XS|Navy",
+        "sku": "SH-MEN-019-02",
+        "size": "XS",
+        "color": "Navy",
+        "stock": 3,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Charcoal",
+        "sku": "SH-MEN-019-03",
+        "size": "S",
+        "color": "Charcoal",
+        "stock": 3,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Navy",
+        "sku": "SH-MEN-019-04",
+        "size": "S",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Charcoal",
+        "sku": "SH-MEN-019-05",
+        "size": "M",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Navy",
+        "sku": "SH-MEN-019-06",
+        "size": "M",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Charcoal",
+        "sku": "SH-MEN-019-07",
+        "size": "L",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Navy",
+        "sku": "SH-MEN-019-08",
+        "size": "L",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "XL|Charcoal",
+        "sku": "SH-MEN-019-09",
+        "size": "XL",
+        "color": "Charcoal",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Navy",
+        "sku": "SH-MEN-019-10",
+        "size": "XL",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.6,
+    "ratingCount": 50,
+    "stock": 23,
+    "soldQuantity": 18,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003fc",
+    "sku": "SH-MEN-020",
+    "name": "Navy Chino Trousers",
+    "slug": "navy-chino-trousers",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Essential",
+    "brand": "Haven Basics",
+    "material": "Cotton stretch",
+    "description": "Tapered chinos balancing smart appearance with everyday comfort.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 56,
+    "oldPrice": 72,
+    "image": "product-03.jpg",
+    "gallery": [
+      "product-03.jpg"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "28|Navy",
+        "sku": "SH-MEN-020-01",
+        "size": "28",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 3
+      },
+      {
+        "variantKey": "28|Black",
+        "sku": "SH-MEN-020-02",
+        "size": "28",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "30|Navy",
+        "sku": "SH-MEN-020-03",
+        "size": "30",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "30|Black",
+        "sku": "SH-MEN-020-04",
+        "size": "30",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "32|Navy",
+        "sku": "SH-MEN-020-05",
+        "size": "32",
+        "color": "Navy",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "32|Black",
+        "sku": "SH-MEN-020-06",
+        "size": "32",
+        "color": "Black",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "34|Navy",
+        "sku": "SH-MEN-020-07",
+        "size": "34",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "34|Black",
+        "sku": "SH-MEN-020-08",
+        "size": "34",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "36|Navy",
+        "sku": "SH-MEN-020-09",
+        "size": "36",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "36|Black",
+        "sku": "SH-MEN-020-10",
+        "size": "36",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 2
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 52,
+    "stock": 16,
+    "soldQuantity": 21,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003fd",
+    "sku": "SH-MEN-021",
+    "name": "Sand Linen Shirt",
+    "slug": "sand-linen-shirt",
+    "category": "000000000000000000000066",
+    "audience": "men",
+    "tag": "Summer",
+    "brand": "Coastline",
+    "material": "Linen blend",
+    "description": "A breathable linen-blend shirt with relaxed sleeves and a holiday-ready finish.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 54,
+    "oldPrice": 69,
+    "image": "product-07.jpg",
+    "gallery": [
+      "product-07.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sand",
+      "White"
+    ],
+    "variants": [
+      {
+        "variantKey": "XS|Sand",
+        "sku": "SH-MEN-021-01",
+        "size": "XS",
+        "color": "Sand",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XS|White",
+        "sku": "SH-MEN-021-02",
+        "size": "XS",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Sand",
+        "sku": "SH-MEN-021-03",
+        "size": "S",
+        "color": "Sand",
+        "stock": 2,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|White",
+        "sku": "SH-MEN-021-04",
+        "size": "S",
+        "color": "White",
+        "stock": 2,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "M|Sand",
+        "sku": "SH-MEN-021-05",
+        "size": "M",
+        "color": "Sand",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "M|White",
+        "sku": "SH-MEN-021-06",
+        "size": "M",
+        "color": "White",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "L|Sand",
+        "sku": "SH-MEN-021-07",
+        "size": "L",
+        "color": "Sand",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "L|White",
+        "sku": "SH-MEN-021-08",
+        "size": "L",
+        "color": "White",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Sand",
+        "sku": "SH-MEN-021-09",
+        "size": "XL",
+        "color": "Sand",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|White",
+        "sku": "SH-MEN-021-10",
+        "size": "XL",
+        "color": "White",
+        "stock": 1,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 54,
+    "stock": 14,
+    "soldQuantity": 3,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003fe",
+    "sku": "SH-OUT-022",
+    "name": "Graphite Bomber Jacket",
+    "slug": "graphite-bomber-jacket",
+    "category": "000000000000000000000067",
+    "audience": "unisex",
+    "tag": "Limited",
+    "brand": "Nord Studio",
+    "material": "Recycled polyester",
+    "description": "A clean bomber jacket with ribbed trims, secure pockets and lightweight insulation.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 96,
+    "oldPrice": 119,
+    "image": "product-11.jpg",
+    "gallery": [
+      "product-11.jpg"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Graphite",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "S|Graphite",
+        "sku": "SH-OUT-022-01",
+        "size": "S",
+        "color": "Graphite",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "S|Black",
+        "sku": "SH-OUT-022-02",
+        "size": "S",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Graphite",
+        "sku": "SH-OUT-022-03",
+        "size": "M",
+        "color": "Graphite",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Black",
+        "sku": "SH-OUT-022-04",
+        "size": "M",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Graphite",
+        "sku": "SH-OUT-022-05",
+        "size": "L",
+        "color": "Graphite",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Black",
+        "sku": "SH-OUT-022-06",
+        "size": "L",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Graphite",
+        "sku": "SH-OUT-022-07",
+        "size": "XL",
+        "color": "Graphite",
+        "stock": 1,
+        "soldQuantity": 0
+      },
+      {
+        "variantKey": "XL|Black",
+        "sku": "SH-OUT-022-08",
+        "size": "XL",
+        "color": "Black",
+        "stock": 1,
+        "soldQuantity": 0
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 56,
+    "stock": 8,
+    "soldQuantity": 6,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "0000000000000000000003ff",
+    "sku": "SH-OUT-023",
+    "name": "Camel Belted Coat",
+    "slug": "camel-belted-coat",
+    "category": "000000000000000000000067",
+    "audience": "unisex",
+    "tag": "Premium",
+    "brand": "Nord Studio",
+    "material": "Wool blend",
+    "description": "A refined belted coat with a warm lining and elegant longline shape.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 138,
+    "oldPrice": 169,
+    "image": "product-12.jpg",
+    "gallery": [
+      "product-12.jpg"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Charcoal"
+    ],
+    "variants": [
+      {
+        "variantKey": "S|Camel",
+        "sku": "SH-OUT-023-01",
+        "size": "S",
+        "color": "Camel",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Charcoal",
+        "sku": "SH-OUT-023-02",
+        "size": "S",
+        "color": "Charcoal",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Camel",
+        "sku": "SH-OUT-023-03",
+        "size": "M",
+        "color": "Camel",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "M|Charcoal",
+        "sku": "SH-OUT-023-04",
+        "size": "M",
+        "color": "Charcoal",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Camel",
+        "sku": "SH-OUT-023-05",
+        "size": "L",
+        "color": "Camel",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Charcoal",
+        "sku": "SH-OUT-023-06",
+        "size": "L",
+        "color": "Charcoal",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Camel",
+        "sku": "SH-OUT-023-07",
+        "size": "XL",
+        "color": "Camel",
+        "stock": 0,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Charcoal",
+        "sku": "SH-OUT-023-08",
+        "size": "XL",
+        "color": "Charcoal",
+        "stock": 0,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.9,
+    "ratingCount": 58,
+    "stock": 6,
+    "soldQuantity": 9,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000400",
+    "sku": "SH-OUT-024",
+    "name": "Mint Lightweight Jacket",
+    "slug": "mint-lightweight-jacket",
+    "category": "000000000000000000000067",
+    "audience": "unisex",
+    "tag": "New",
+    "brand": "Coastline",
+    "material": "Cotton nylon",
+    "description": "A lightweight transitional jacket with a relaxed collar and practical pockets.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 82,
+    "oldPrice": 102,
+    "image": "product-08.jpg",
+    "gallery": [
+      "product-08.jpg"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Mint",
+      "Navy"
+    ],
+    "variants": [
+      {
+        "variantKey": "S|Mint",
+        "sku": "SH-OUT-024-01",
+        "size": "S",
+        "color": "Mint",
+        "stock": 2,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "S|Navy",
+        "sku": "SH-OUT-024-02",
+        "size": "S",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Mint",
+        "sku": "SH-OUT-024-03",
+        "size": "M",
+        "color": "Mint",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "M|Navy",
+        "sku": "SH-OUT-024-04",
+        "size": "M",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "L|Mint",
+        "sku": "SH-OUT-024-05",
+        "size": "L",
+        "color": "Mint",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "L|Navy",
+        "sku": "SH-OUT-024-06",
+        "size": "L",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Mint",
+        "sku": "SH-OUT-024-07",
+        "size": "XL",
+        "color": "Mint",
+        "stock": 1,
+        "soldQuantity": 1
+      },
+      {
+        "variantKey": "XL|Navy",
+        "sku": "SH-OUT-024-08",
+        "size": "XL",
+        "color": "Navy",
+        "stock": 1,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.6,
+    "ratingCount": 60,
+    "stock": 9,
+    "soldQuantity": 12,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000401",
+    "sku": "SH-ACC-025",
+    "name": "Blush Everyday Scarf",
+    "slug": "blush-everyday-scarf",
+    "category": "000000000000000000000068",
+    "audience": "unisex",
+    "tag": "Gift Pick",
+    "brand": "StyleHaven",
+    "material": "Viscose",
+    "description": "A soft lightweight scarf for colour, warmth and easy seasonal layering.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 24,
+    "oldPrice": 30,
+    "image": "collection-accessories.jpg",
+    "gallery": [
+      "collection-accessories.jpg"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Blush",
+      "Navy"
+    ],
+    "variants": [
+      {
+        "variantKey": "One Size|Blush",
+        "sku": "SH-ACC-025-01",
+        "size": "One Size",
+        "color": "Blush",
+        "stock": 15,
+        "soldQuantity": 8
+      },
+      {
+        "variantKey": "One Size|Navy",
+        "sku": "SH-ACC-025-02",
+        "size": "One Size",
+        "color": "Navy",
+        "stock": 15,
+        "soldQuantity": 7
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 62,
+    "stock": 30,
+    "soldQuantity": 15,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000402",
+    "sku": "SH-ACC-026",
+    "name": "Black Crossbody Bag",
+    "slug": "black-crossbody-bag",
+    "category": "000000000000000000000068",
+    "audience": "unisex",
+    "tag": "Best Seller",
+    "brand": "Nord Studio",
+    "material": "Vegan leather",
+    "description": "A structured crossbody bag with adjustable strap and secure zipped sections.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 49,
+    "oldPrice": 62,
+    "image": "collection-accessories.jpg",
+    "gallery": [
+      "collection-accessories.jpg"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black",
+      "Stone"
+    ],
+    "variants": [
+      {
+        "variantKey": "One Size|Black",
+        "sku": "SH-ACC-026-01",
+        "size": "One Size",
+        "color": "Black",
+        "stock": 9,
+        "soldQuantity": 9
+      },
+      {
+        "variantKey": "One Size|Stone",
+        "sku": "SH-ACC-026-02",
+        "size": "One Size",
+        "color": "Stone",
+        "stock": 9,
+        "soldQuantity": 9
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 64,
+    "stock": 18,
+    "soldQuantity": 18,
+    "lowStockThreshold": 8,
+    "featured": true,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000403",
+    "sku": "SH-ACC-027",
+    "name": "Tan Classic Belt",
+    "slug": "tan-classic-belt",
+    "category": "000000000000000000000068",
+    "audience": "unisex",
+    "tag": "Essential",
+    "brand": "Northline",
+    "material": "Leather",
+    "description": "A versatile leather belt with a clean brushed-metal buckle.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 28,
+    "oldPrice": 35,
+    "image": "collection-accessories.jpg",
+    "gallery": [
+      "collection-accessories.jpg"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Tan",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "One Size|Tan",
+        "sku": "SH-ACC-027-01",
+        "size": "One Size",
+        "color": "Tan",
+        "stock": 13,
+        "soldQuantity": 11
+      },
+      {
+        "variantKey": "One Size|Black",
+        "sku": "SH-ACC-027-02",
+        "size": "One Size",
+        "color": "Black",
+        "stock": 12,
+        "soldQuantity": 10
+      }
+    ],
+    "ratingAverage": 4.6,
+    "ratingCount": 66,
+    "stock": 25,
+    "soldQuantity": 21,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000404",
+    "sku": "SH-ACC-028",
+    "name": "Navy Ribbed Beanie",
+    "slug": "navy-ribbed-beanie",
+    "category": "000000000000000000000068",
+    "audience": "unisex",
+    "tag": "Winter",
+    "brand": "Haven Basics",
+    "material": "Cotton knit",
+    "description": "A warm ribbed beanie with soft stretch and a neat fold-over cuff.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 22,
+    "oldPrice": 28,
+    "image": "product-11.jpg",
+    "gallery": [
+      "product-11.jpg"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantKey": "One Size|Navy",
+        "sku": "SH-ACC-028-01",
+        "size": "One Size",
+        "color": "Navy",
+        "stock": 11,
+        "soldQuantity": 2
+      },
+      {
+        "variantKey": "One Size|Black",
+        "sku": "SH-ACC-028-02",
+        "size": "One Size",
+        "color": "Black",
+        "stock": 10,
+        "soldQuantity": 1
+      }
+    ],
+    "ratingAverage": 4.7,
+    "ratingCount": 68,
+    "stock": 21,
+    "soldQuantity": 3,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000405",
+    "sku": "SH-ACC-029",
+    "name": "Floral Hair Scarf",
+    "slug": "floral-hair-scarf",
+    "category": "000000000000000000000068",
+    "audience": "unisex",
+    "tag": "Fresh Pick",
+    "brand": "Flora Lane",
+    "material": "Satin blend",
+    "description": "A printed satin hair scarf that can also be styled around a bag or wrist.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 18,
+    "oldPrice": 24,
+    "image": "product-09.jpg",
+    "gallery": [
+      "product-09.jpg"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Floral"
+    ],
+    "variants": [
+      {
+        "variantKey": "One Size|Floral",
+        "sku": "SH-ACC-029-01",
+        "size": "One Size",
+        "color": "Floral",
+        "stock": 27,
+        "soldQuantity": 6
+      }
+    ],
+    "ratingAverage": 4.8,
+    "ratingCount": 70,
+    "stock": 27,
+    "soldQuantity": 6,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000406",
+    "sku": "SH-ACC-030",
+    "name": "Ivory Canvas Tote",
+    "slug": "ivory-canvas-tote",
+    "category": "000000000000000000000068",
+    "audience": "unisex",
+    "tag": "Eco",
+    "brand": "StyleHaven",
+    "material": "Cotton canvas",
+    "description": "A roomy reusable tote with reinforced handles and an internal pocket.",
+    "careInstructions": "Follow the garment label. Wash similar colours together and avoid excessive heat.",
+    "price": 26,
+    "oldPrice": 34,
+    "image": "collection-accessories.jpg",
+    "gallery": [
+      "collection-accessories.jpg"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Ivory",
+      "Blush"
+    ],
+    "variants": [
+      {
+        "variantKey": "One Size|Ivory",
+        "sku": "SH-ACC-030-01",
+        "size": "One Size",
+        "color": "Ivory",
+        "stock": 12,
+        "soldQuantity": 5
+      },
+      {
+        "variantKey": "One Size|Blush",
+        "sku": "SH-ACC-030-02",
+        "size": "One Size",
+        "color": "Blush",
+        "stock": 12,
+        "soldQuantity": 4
+      }
+    ],
+    "ratingAverage": 4.5,
+    "ratingCount": 72,
+    "stock": 24,
+    "soldQuantity": 9,
+    "lowStockThreshold": 8,
+    "featured": false,
+    "status": "active",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]

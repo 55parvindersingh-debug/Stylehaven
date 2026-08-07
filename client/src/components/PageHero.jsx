@@ -1,0 +1,1 @@
+export default function PageHero({ eyebrow, title, text, compact = false }) { return <section className={`page-hero ${compact ? 'compact' : ''}`}><div className="container"><p className="eyebrow">{eyebrow}</p><h1>{title}</h1>{text && <p>{text}</p>}</div></section>; }

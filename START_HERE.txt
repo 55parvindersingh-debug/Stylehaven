@@ -1,0 +1,16 @@
+STYLEHAVEN D2 — START HERE
+
+1. Do not submit this package before running and testing it.
+2. Open the StyleHaven_D2_Complete folder in VS Code.
+3. Run: npm install
+4. Copy server/.env.example to server/.env.
+5. Add the private MongoDB Atlas URI with database name stylehaven.
+6. Set a long SESSION_SECRET.
+7. Run: npm run seed
+8. Run: npm run dev
+9. Test customer and administrator workflows using README credentials.
+10. Run: npm run preflight
+11. Run: npm run build
+12. Deploy, add live URLs to README, export final JSON and create a clean ZIP.
+
+Never submit server/.env, MongoDB credentials or node_modules.

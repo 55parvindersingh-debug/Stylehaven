@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "000000000000000000001771",
+    "customer": "0000000000000000000007d2",
+    "name": "Aisha Malik",
+    "email": "customer@stylehaven.demo",
+    "topic": "size-and-fit",
+    "message": "Please confirm whether the Luna Navy Tee has a relaxed or standard fit.",
+    "status": "resolved",
+    "createdAt": "2026-07-20T10:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001772",
+    "customer": "0000000000000000000007d3",
+    "name": "Emily Carter",
+    "email": "emily.carter@stylehaven.demo",
+    "topic": "returns",
+    "message": "I would like guidance about exchanging an unworn item for another size.",
+    "status": "in-progress",
+    "createdAt": "2026-07-22T11:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001773",
+    "customer": null,
+    "name": "Liam Green",
+    "email": "liam@example.com",
+    "topic": "stock",
+    "message": "Will the Burgundy Winter Coat be restocked in size medium soon?",
+    "status": "new",
+    "createdAt": "2026-07-25T13:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001774",
+    "customer": null,
+    "name": "Hannah Cole",
+    "email": "hannah@example.com",
+    "topic": "delivery",
+    "message": "Could you explain the demonstration free-delivery threshold for UK orders?",
+    "status": "new",
+    "createdAt": "2026-07-27T14:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]

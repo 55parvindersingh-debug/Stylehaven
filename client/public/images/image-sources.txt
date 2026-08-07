@@ -1,0 +1,3 @@
+Image source note:
+Local raster clothing images were prepared from the uploaded sample asset packs and edited into new product, hero, collection and blog visuals for this client-side D1 project.
+The website does not rely on external image URLs, so it can run offline after unzipping.

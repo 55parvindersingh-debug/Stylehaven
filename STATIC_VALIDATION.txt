@@ -1,0 +1,29 @@
+StyleHaven D2 — Static Validation Report
+Generated: 4 August 2026
+
+Completed in the build environment
+----------------------------------
+PASS  Server JavaScript syntax check: 40 files.
+PASS  Node utility/business-rule tests: 7 passed, 0 failed.
+PASS  Client React/JSX parse check using TypeScript parser.
+PASS  Database JSON/ObjectId/relationship validation.
+PASS  Records validated: 5 users, 4 categories, 30 products, 8 orders, 10 reviews.
+PASS  Product variant aggregate-stock checks.
+PASS  Order item/product/size/colour variant-reference checks.
+PASS  Order subtotal, discount, delivery and total consistency checks.
+PASS  Relative React import validation.
+PASS  Local image-reference validation.
+PASS  Project-isolation scan for names/content from the other supplied student projects.
+PASS  Clean-package scan: no private .env, node_modules or .git directory.
+Data digest: 3d9f17e4c055
+
+Not completed in this build environment
+---------------------------------------
+- npm dependency installation and a real Vite production build. The available internal package mirror returned a 404 for @vitejs/plugin-react.
+- Connection to the student's private MongoDB Atlas account.
+- Browser-based end-to-end testing against a running database.
+- Remote deployment and live-URL verification.
+
+Required before submission
+--------------------------
+Follow START_HERE.txt and TESTING_CHECKLIST.md on the student's laptop. Install dependencies, configure server/.env, seed Atlas, run the application, test every customer/admin workflow, run npm run build, deploy, add the live URLs to README.md, export the final database JSON and create a fresh clean ZIP.

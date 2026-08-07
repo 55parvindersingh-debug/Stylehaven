@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: stylehaven-api
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run start --workspace server
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: SESSION_STORE
+        value: mongo
+      - key: SERVE_CLIENT
+        value: "false"
+      - key: SESSION_COOKIE_NAME
+        value: stylehaven.sid
+      - key: MONGODB_URI
+        sync: false
+        placeholder: "Your MongoDB Atlas connection URI"
+      - key: SESSION_SECRET
+        sync: false
+        placeholder: "Generate a secure string (minimum 32 characters)"
+      - key: CLIENT_URL
+        sync: false
+        placeholder: "Your frontend URL (e.g. Vercel or Netlify app URL)"

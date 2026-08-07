@@ -1,0 +1,5 @@
+const API_URL=(import.meta.env.VITE_API_URL||'/api').replace(/\/$/,'');
+export async function api(path,options={}){const response=await fetch(`${API_URL}${path}`,{credentials:'include',headers:{...(options.body?{'Content-Type':'application/json'}:{}),...(options.headers||{})},...options,body:options.body&&typeof options.body!=='string'?JSON.stringify(options.body):options.body});let data={};try{data=await response.json();}catch{data={};}if(!response.ok){const error=new Error(data.message||`Request failed with status ${response.status}.`);error.status=response.status;error.data=data;throw error;}return data;}
+export function imageUrl(filename){return filename?`/images/${String(filename).replace(/^\/?images\//,'')}`:'/images/favicon.png';}
+export function money(value){return new Intl.NumberFormat('en-GB',{style:'currency',currency:'GBP'}).format(Number(value)||0);}
+export function formatDate(value){return value?new Intl.DateTimeFormat('en-GB',{dateStyle:'medium'}).format(new Date(value)):'—';}

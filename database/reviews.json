@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "000000000000000000001389",
+    "customer": "0000000000000000000007d2",
+    "product": "0000000000000000000003e9",
+    "name": "Aisha Malik",
+    "rating": 5,
+    "text": "The fit matched the size guide and the fabric feels excellent.",
+    "status": "approved",
+    "createdAt": "2026-07-12T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000138a",
+    "customer": "0000000000000000000007d3",
+    "product": "0000000000000000000003eb",
+    "name": "Emily Carter",
+    "rating": 4,
+    "text": "Lovely colour and accurate product photographs. Delivery was straightforward.",
+    "status": "approved",
+    "createdAt": "2026-07-13T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000138b",
+    "customer": "0000000000000000000007d4",
+    "product": "0000000000000000000003ed",
+    "name": "Daniel Khan",
+    "rating": 5,
+    "text": "Good quality shirt with a comfortable cut and clear care information.",
+    "status": "approved",
+    "createdAt": "2026-07-14T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000138c",
+    "customer": "0000000000000000000007d2",
+    "product": "0000000000000000000003ef",
+    "name": "Sophie Reed",
+    "rating": 5,
+    "text": "The coat feels premium and the order status updates were easy to follow.",
+    "status": "approved",
+    "createdAt": "2026-07-15T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000138d",
+    "customer": "0000000000000000000007d3",
+    "product": "0000000000000000000003f1",
+    "name": "Noah Ahmed",
+    "rating": 4,
+    "text": "Useful filters and a smooth cart experience. The selected size stayed with the item.",
+    "status": "approved",
+    "createdAt": "2026-07-16T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000138e",
+    "customer": "0000000000000000000007d4",
+    "product": "0000000000000000000003f3",
+    "name": "Grace Wilson",
+    "rating": 5,
+    "text": "Beautiful blouse and the wishlist made it easy to save items before ordering.",
+    "status": "approved",
+    "createdAt": "2026-07-17T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000138f",
+    "customer": "0000000000000000000007d2",
+    "product": "0000000000000000000003f5",
+    "name": "Amir Hussain",
+    "rating": 4,
+    "text": "The product details were clear and stock was checked properly at checkout.",
+    "status": "approved",
+    "createdAt": "2026-07-18T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001390",
+    "customer": "0000000000000000000007d3",
+    "product": "0000000000000000000003f7",
+    "name": "Olivia Smith",
+    "rating": 5,
+    "text": "Excellent everyday clothing and a very responsive mobile layout.",
+    "status": "approved",
+    "createdAt": "2026-07-19T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001391",
+    "customer": null,
+    "product": "0000000000000000000003f9",
+    "name": "Jack Taylor",
+    "rating": 4,
+    "text": "The cancellation flow worked and the stock was restored correctly.",
+    "status": "pending",
+    "createdAt": "2026-07-20T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001392",
+    "customer": null,
+    "product": "0000000000000000000003fb",
+    "name": "Maya Patel",
+    "rating": 5,
+    "text": "Great styling, helpful categories and quick order history access.",
+    "status": "pending",
+    "createdAt": "2026-07-21T12:00:00.000Z",
+    "updatedAt": "2026-08-01T12:00:00.000Z"
+  }
+]
