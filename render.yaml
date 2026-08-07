@@ -3,7 +3,7 @@ services:
     name: stylehaven-api
     env: node
     plan: free
-    buildCommand: npm install
+    buildCommand: npm install && npm run build
     startCommand: npm run start --workspace server
     envVars:
       - key: NODE_ENV
@@ -13,7 +13,7 @@ services:
       - key: SESSION_STORE
         value: mongo
       - key: SERVE_CLIENT
-        value: "false"
+        value: "true"
       - key: SESSION_COOKIE_NAME
         value: stylehaven.sid
       - key: MONGODB_URI
